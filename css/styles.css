@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #F8F9D7;
+  color: #40514E;
+  font-weight: bold;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 350px;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  position: relative;
+  margin-bottom: 0;
+}
+
+.btn {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.button {
+  background-color: #11999E;
+  width: 170px;
+  height: 50px;
+  border-radius: 10px;
+  border: none;
+}
+
+.button:hover {
+  background-color: #48968c;
+}
+
+.cricket-img {
+  width: 18%;
+  float: left;
+  margin-right: 30px;
+}
+
+.footer-link {
+  color: #66BFBF;
+  text-decoration: none;
+  margin: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 9px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.hr {
+  border-style: none;
+  border-color: grey;
+  border-top-style: dotted;
+  border-width: 6.5px;
+  width: 5%;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.last {
+  position: relative;
+  color: #EAF6F6;
+  bottom: 1px;
+  font-weight: lighter;
+  margin-top: 40px;
+  font-size: 11px;
+}
+
+.lastline {
+  width: 35%;
+  margin: 40px auto 60px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.mountain {
+  padding-top: 40px;
+}
+
+.my-img {
+  width: 200px;
+}
+
+.skating-img {
+  width: 18%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.student {
+  margin-bottom: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  right: 300px;
+}
+
+.top-container {
+  background-color: #FFFFDE;
+  padding-top: 100px;
+  position: relative;
+}
